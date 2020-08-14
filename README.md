@@ -1,5 +1,7 @@
 <h2> Salve devs 👋, blz? Eu sou Luiz Carlos</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=argentinaluiz" alt="argentinaluiz" /> </p>
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Explorando o mundo de conhecimento de tecnologia da informação.
