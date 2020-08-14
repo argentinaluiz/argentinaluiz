@@ -9,7 +9,7 @@
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=argentinaluiz&show_icons=true)](https://github.com/argentinaluiz)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Conecte-se comigo </h3>
 
 <p align="center">
 <a href="https://about.me/carlosluiz"><img alt="Website" src="https://img.shields.io/badge/Website-https://about.me/carlosluiz-blue?style=flat-square&logo=google-chrome"></a>
