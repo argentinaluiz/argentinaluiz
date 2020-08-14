@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://about.me/carlosluiz"><img alt="Website" src="https://img.shields.io/badge/Website-https://about.me/carlosluiz-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/argentinaluiz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-argentinaluiz-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/argentinaluiz/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-argentinaluiz-blue?style=flat-square&logo=instagram"></a>
+  <a href="https://www.twitter.com/argentinaluiz/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-argentinaluiz-blue?style=flat-square&logo=instagram"></a>
 </p>
