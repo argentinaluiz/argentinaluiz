@@ -14,7 +14,7 @@ Auta também na área educacional, ministrando cursos, palestras e consultorias 
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=argentinaluiz&show_icons=true)](https://github.com/argentinaluiz)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=argentinaluiz&show_icons=true&count_private=true)](https://github.com/argentinaluiz)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argentinaluiz&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
