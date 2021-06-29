@@ -8,7 +8,7 @@ Engenheiro de software e professor/comunidador, entusiasta em economia, direito 
 Trabalha empreendendo na área de construção de softwares para WEB e consultoria em tecnologia há mais de 14 anos.
 Especialista múltiplas linguagens de programação e ferramentas: 
 Docker, PHP, Laravel, Python, Django, Node.js, Nest.js, JavaScript, TypeScript, Angular, React, Vue, MySQL, PostgreSQL, ElasticSearch, entre outros.
-Auta também na área educacional, ministrando cursos, palestras e consultorias para milhares de alunos e empresas.
+Atua também na área educacional, ministrando cursos, palestras e consultorias para milhares de alunos e empresas.
 
 - 💼 &nbsp; Trabalhando como CTO/Professor na School of Net/Code Education/Full Cycle
 
