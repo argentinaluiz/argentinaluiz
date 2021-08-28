@@ -26,3 +26,11 @@ Atua também na área educacional, ministrando cursos, palestras e consultorias 
 <a href="https://www.instagram.com/argentinaluiz/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-argentinaluiz-blue?style=flat-square&logo=instagram"></a>
   <a href="https://www.twitter.com/argentinaluiz/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-argentinaluiz-blue?style=flat-square&logo=twitter"></a>
 </p>
+
+<p>
+  <img src="https://brave.com/static-assets/images/brave-bat-logos.svg" width="124" height="60" />
+</p>
+
+<p>
+  Sou um criador apoiado pelo Brave, considere me apoiar clicando no ícone do brave no cantinho da sua url.
+</p>
