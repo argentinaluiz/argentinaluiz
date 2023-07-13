@@ -10,7 +10,8 @@ Especialista múltiplas linguagens de programação e ferramentas:
 Docker, PHP, Laravel, Python, Django, Node.js, Nest.js, JavaScript, TypeScript, Angular, React, Vue, MySQL, PostgreSQL, ElasticSearch, entre outros.
 Atua também na área educacional, ministrando cursos, palestras e consultorias para milhares de alunos e empresas.
 
-- 💼 &nbsp; Trabalhando como CTO/Professor na School of Net/Code Education/Full Cycle
+- 💼 &nbsp; Trabalhando como CTO/Professor na School of Net/Full Cycle
+- Microsoft MVP
 
 <br/>
 
@@ -20,17 +21,14 @@ Atua também na área educacional, ministrando cursos, palestras e consultorias 
 
 <h3> 🤝🏻 Conecte-se comigo </h3>
 
-<p align="center">
-<a href="https://about.me/carlosluiz"><img alt="Website" src="https://img.shields.io/badge/Website-https://about.me/carlosluiz-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/argentinaluiz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-argentinaluiz-blue?style=flat-square&logo=linkedin"></a>
+<p>
 <a href="https://www.instagram.com/argentinaluiz/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-argentinaluiz-blue?style=flat-square&logo=instagram"></a>
-  <a href="https://www.twitter.com/argentinaluiz/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-argentinaluiz-blue?style=flat-square&logo=twitter"></a>
-</p>
 
-<p>
-  <img src="https://brave.com/static-assets/images/brave-bat-logos.svg" width="124" height="60" />
-</p>
+<a href="https://www.linkedin.com/in/argentinaluiz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-argentinaluiz-blue?style=flat-square&logo=linkedin"></a>
 
-<p>
-  Sou um criador apoiado pelo Brave, considere me apoiar clicando no ícone do brave no cantinho da sua url.
+<a href="https://www.twitter.com/argentinaluiz/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-argentinaluiz-blue?style=flat-square&logo=twitter"></a>
+
+<a href="https://mvp.microsoft.com/pt-br/PublicProfile/5005296?fullName=Luiz%20Carlos%20%20Diniz"><img alt="Website" src="https://img.shields.io/badge/Microsoft-MVP-blue?style=flat-square&logo=microsoft"></a>
+
+<a href="https://about.me/carlosluiz"><img alt="Website" src="https://img.shields.io/badge/Website-https://about.me/carlosluiz-blue?style=flat-square&logo=google-chrome"></a>
 </p>
