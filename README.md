@@ -10,7 +10,7 @@ Especialista múltiplas linguagens de programação e ferramentas:
 Docker, PHP, Laravel, Python, Django, Node.js, Nest.js, JavaScript, TypeScript, Angular, React, Vue, MySQL, PostgreSQL, ElasticSearch, entre outros.
 Atua também na área educacional, ministrando cursos, palestras e consultorias para milhares de alunos e empresas.
 
-- 💼 &nbsp; Trabalhando como CTO/Professor na School of Net/Full Cycle
+- 💼 &nbsp; Trabalhando como CTO/Professor na Full Cycle
 - Microsoft MVP
 - Docker Captain
 
