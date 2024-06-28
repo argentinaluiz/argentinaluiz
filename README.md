@@ -12,6 +12,7 @@ Atua também na área educacional, ministrando cursos, palestras e consultorias 
 
 - 💼 &nbsp; Trabalhando como CTO/Professor na School of Net/Full Cycle
 - Microsoft MVP
+- Docker Captain
 
 <br/>
 
